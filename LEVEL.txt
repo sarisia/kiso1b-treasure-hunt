@@ -1,0 +1,33 @@
+4
+
+EASY
+5 40 20 0 1 0.7
+Monster often drops treasure
+Monster often drops energy drinks
+Monster does not have child
+Player have 1 barrier
+Score magnification: x0.7
+
+NORMAL
+5 30 15 2 1 1.0
+Monster sometimes drops treasure
+Monster rarely drops energy drinks
+Monster have 2 children
+Player have 1 barrier
+Score magnification: x1.0
+
+HARD
+5 20 10 5 0 1.5
+Monster rarely drops treasure
+Monster hardly drops energy drinks
+Monster have many children
+Player does not have barrier
+Score magnification: x1.5
+
+DESPAIR
+5 20 0 10 0 3.0
+Monster rarely drops treasure
+Monster does not have energy drinks
+Monster have many many children
+Player does not have barrier
+Score magnification: x3.0
